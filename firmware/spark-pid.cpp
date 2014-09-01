@@ -11,7 +11,7 @@
   #include "WProgram.h"
 #endif
 
-#include <PID_v1.h>
+#include "spark-pid.h"
 
 /*Constructor (...)*********************************************************
  *    The parameters specified here are those for for which we can't set up 
