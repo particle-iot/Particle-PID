@@ -9,7 +9,7 @@
 double Setpoint, Input, Output;
 
 //Specify the links and initial tuning parameters
-PID myPID(&Input, &Output, &Setpoint,2,5,1, PID::Direct);
+PID myPID(&Input, &Output, &Setpoint,2,5,1, DIRECT);
 
 void setup()
 {
@@ -18,7 +18,7 @@ void setup()
   Setpoint = 100;
 
   //turn the PID on
-  myPID.SetMode(PID::Automatic);
+  myPID.SetMode(AUTOMATIC);
 }
 
 void loop()
