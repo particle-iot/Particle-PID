@@ -1,6 +1,6 @@
 {
     "name": "pid",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Dan Rice <dan@zoombody.com>",
     "license": "GPLv3",
     "description": "PID control library"
