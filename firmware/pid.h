@@ -1,6 +1,6 @@
 #ifndef PID_h
 #define PID_h
-#define PID_LIBRARY_VERSION	1.0.0
+#define PID_LIBRARY_VERSION	1.1.1
 
 class PID
 {
@@ -76,4 +76,3 @@ class PID
 	bool inAuto;
 };
 #endif
-
