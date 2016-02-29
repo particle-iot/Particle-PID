@@ -1,4 +1,4 @@
-# PID control library for Spark Core
+# PID control library for Particle
 
 _Adapted from Brett Beauregard's [Arduino PID Library](https://github.com/br3ttb/Arduino-PID-Library)_
 
