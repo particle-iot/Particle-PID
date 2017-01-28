@@ -14,7 +14,7 @@
  * window being "Relay Off Time"
  ********************************************************/
 
-#include "pid/pid.h"
+#include "pid.h"
 #define RelayPin 6
 
 //Define Variables we'll be connecting to

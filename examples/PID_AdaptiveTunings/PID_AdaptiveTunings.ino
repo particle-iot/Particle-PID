@@ -9,7 +9,7 @@
  * Parameters when we're farther away.
  ********************************************************/
 
-#include "pid/pid.h"
+#include "pid.h"
 
 //Define Variables we'll be connecting to
 double Setpoint, Input, Output;
